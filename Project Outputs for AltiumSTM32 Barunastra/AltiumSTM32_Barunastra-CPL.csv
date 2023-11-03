@@ -1,0 +1,48 @@
+Altium Designer Pick and Place Locations
+C:\DATA-D\Learn_Altium\AltiumSTM32 Barunastra\Project Outputs for AltiumSTM32 Barunastra\Pick Place for AltiumSTM32 Barunastra.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/11/23
+Time:       22:24
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"X1","24MHz","Top","XTAL_3225","81.6500","64.4000","270","Crystal SMD 24MHz 10PPM 7pF 3225"
+"U3","MPU-6050","Top","IS-QFN-24_V","81.5250","74.9250","270","3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel"
+"U2","STM32F411CEU6","Top","STM-UFQFPN48_L","95.3160","68.2190","0","ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"
+"U1","AMS1117-3.3","Top","FP-AMS1117-IPC_C","106.6250","76.0750","90","LDO Voltage Regulators 1A, 3.3V"
+"R7","10K","Top","RES_0402","94.5000","73.4750","270","Resistor SMD 0402"
+"R6","0R","Top","RES_0402","85.2500","64.7000","90","Resistor SMD 0402"
+"R5","10K","Top","RES_0402","88.1750","66.4500","0","Resistor SMD 0402"
+"R4","1K","Top","RES_0402","101.4000","62.4250","90","Resistor SMD 0402"
+"R3","2k2","Top","RES_0402","84.8250","76.8500","90","Resistor SMD 0402"
+"R2","2k2","Top","RES_0402","85.9250","71.6750","270","Resistor SMD 0402"
+"R1","1K","Top","RES_0402","105.4000","81.7000","90","Resistor SMD 0402"
+"J3","SM06B-GHS-TB","Top","SM06B-GHS-TB","91.5500","55.2750","0","Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH"
+"J2","TC2030","Top","TC2030-FP","95.1000","79.8500","180","Tag-Connect No-Solder SWD Debug Connector DO NOT PLACE"
+"J1","473460001","Top","FP-473460001-MFG","113.9050","64.7500","90","CONN RCPT USB2.0 MICRO B SMD R/A"
+"FB1","120R","Top","FB_0603","109.2250","62.7500","180","Ferrite Bead SMD 0603"
+"D2","RED","Top","LED_0402_RED","101.4250","64.6250","270","LED 0402 RED SMD"
+"D1","GREEN","Top","LED_0402_GREEN","106.8500","81.7250","90","LED 0402 GREEN SMD"
+"C18","100nF","Top","CAP_0402","89.7250","65.4500","270","Capacitor SMD 0402"
+"C17","100nF","Top","CAP_0402","90.1250","70.7750","90","Capacitor SMD 0402"
+"C16","100nF","Top","CAP_0402","92.4250","73.4500","270","Capacitor SMD 0402"
+"C15","100nF","Top","CAP_0402","100.4000","71.2000","180","Capacitor SMD 0402"
+"C14","100nF","Top","CAP_0402","98.6000","63.3750","0","Capacitor SMD 0402"
+"C13","2n2","Top","CAP_0603","88.8500","71.0250","90","Capacitor SMD 0603"
+"C12","100nF","Top","CAP_0402","86.5750","65.9500","90","Capacitor SMD 0402"
+"C11","2.2uF","Top","CAP_0603","96.9500","62.6250","90","Capacitor SMD 0603"
+"C10","100nF","Top","CAP_0402","79.7250","71.5750","0","Capacitor SMD 0402"
+"C9","10pF","Top","CAP_0402","84.1000","64.6750","270","Capacitor SMD 0402"
+"C8","10pF","Top","CAP_0402","78.7500","65.3000","90","Capacitor SMD 0402"
+"C7","2n2","Top","CAP_0402","84.8500","71.6750","90","Capacitor SMD 0402"
+"C6","10nF","Top","CAP_0402","77.7500","76.8750","270","Capacitor SMD 0402"
+"C5","100nF","Top","CAP_0402","77.7750","74.9000","270","Capacitor SMD 0402"
+"C4","22uF","Top","CAP_0805","111.4250","78.0500","90","Capacitor SMD 0805"
+"C3","22uF","Top","CAP_0805","111.4750","73.7750","270","Capacitor SMD 0805"
+"C2","2n2","Top","CAP_0603","108.4500","60.5000","90","Capacitor SMD 0603"
+"C1","2n2","Top","CAP_0603","110.1250","60.5500","90","Capacitor SMD 0603"
