@@ -1,0 +1,8 @@
+*.SchDoc linguist-detectable   # Schematic documents
+*.PcbDoc linguist-detectable   # PCB documents
+*.PrjPcb linguist-detectable   # PCB project files
+*.LibPkg linguist-detectable   # Library package files
+*.IntLib linguist-detectable   # Integrated library files
+*.PcbLib linguist-detectable   # PCB footprint libraries
+*.SchLib linguist-detectable   # Schematic symbol libraries
+*.PrjLib linguist-detectable   # Library project files
